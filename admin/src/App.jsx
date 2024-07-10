@@ -6,11 +6,11 @@ import List from './pages/List/List'
 import Order from './pages/Order/Order'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { url } from "./assets/assets"
 
 
 const App = () => {
 
-  const url = "http://localhost:4000";
   return (
     <div>
       <ToastContainer />
