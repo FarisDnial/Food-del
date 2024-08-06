@@ -8,7 +8,7 @@ A web application for food delivery, featuring user authentication, order manage
 
 ## Admin Panel
 
-![App Screenshot]([assets/screenshot.png](https://github.com/FarisDnial/Food-del/blob/3c58218e699aba9f04ae239fa3ee10c2f18afbc4/foodDel-%20adminPanel.jpg)
+![App Screenshot](https://github.com/FarisDnial/Food-del/blob/3c58218e699aba9f04ae239fa3ee10c2f18afbc4/foodDel-%20adminPanel.jpg)
 
 ## Features
 
