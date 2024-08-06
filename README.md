@@ -20,7 +20,7 @@ A web application for food delivery, featuring user authentication, order manage
   - Add items to the cart and place orders.
   - Track order status and history.
 
-- 🍲**Food Item Operations**
+- 🍲 **Food Item Operations**
   - View and manage food items, including adding new items and updating existing ones.
 
 - 🛒 **Cart Functionality**
