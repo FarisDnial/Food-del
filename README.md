@@ -29,7 +29,7 @@ A web application for food delivery, featuring user authentication, order manage
 - 🧾 **Payment Processing**
   - Integrated with Stripe for secure and efficient payment handling.
 
-- **Admin Panel**
+- 👨🏻‍🔧 **Admin Panel**
   - **Product Management:**
     - Add new products to the list.
     - Remove products from the list.
