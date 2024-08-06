@@ -2,11 +2,11 @@
 
 A web application for food delivery, featuring user authentication, order management, and payment processing.
 
-## App Homepage
+## [App Homepage](https://food-del-frontend-vc8l.onrender.com/) 
 
 ![App Screenshot](https://github.com/FarisDnial/Food-del/blob/3c58218e699aba9f04ae239fa3ee10c2f18afbc4/foodDel-homepage.jpg)
 
-## Admin Panel
+## [App Homepage](https://food-del-admin-50nr.onrender.com/list) 
 
 ![App Screenshot](https://github.com/FarisDnial/Food-del/blob/3c58218e699aba9f04ae239fa3ee10c2f18afbc4/foodDel-%20adminPanel.jpg)
 
